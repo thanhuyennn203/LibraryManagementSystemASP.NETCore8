@@ -1,0 +1,81 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+@model List<LibraryManagementSystem.Models.Book>
+
+<div class="home">
+
+	<div id="carouselExampleIndicators" class="carousel slide">
+		<div class="carousel-indicators">
+			<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+			<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+			<button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+		</div>
+		<div class="carousel-inner">
+			@for (int i = 0; i < ViewBag.Carousel.Count; i++)
+			{
+				var item = ViewBag.Carousel[i];
+				<div class="carousel-item @(i == 0 ? "active" : "")">
+					<img src="/images/@item.ImageUrl" class="d-block w-100" alt="Carousel Image">
+				</div>
+			}
+		</div>
+		<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+			<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Previous</span>
+		</button>
+		<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+			<span class="carousel-control-next-icon" aria-hidden="true"></span>
+			<span class="visually-hidden">Next</span>
+		</button>
+	</div>
+
+	<div class="books">
+		<h5>ALL BOOKS AVAILABLE</h5>
+		<hr />
+
+		<div class="book-display">
+			@if (Model != null && Model.Any())
+			{
+				@foreach (var book in Model)
+				{
+					<div class="book-box">
+						<div class="book-box-info" data-url="@Url.Action("Detail", "Book", new { bookId = book.BookId })">
+							<div class="book-img">
+								<img src="/images/@book.Avatar" alt="@book.Title" />
+							</div>
+
+							<div class="book-info">
+								<p class="title">@book.Title</p>
+								<p class="author">@((book.Author != null) ? book.Author.FirstName : "Unknown Author")</p>
+							</div>
+						</div>
+						<div class="view-online-box">
+							<a class="view-online" href="@Url.Action("ReadPdf", "Book", new { bookId = book.BookId })">Read PDF</a>
+						</div>
+					</div>
+				}
+
+			}
+			else
+			{
+				<p>No books available.</p>
+			}
+		</div>
+	</div>
+
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			const boxes = document.querySelectorAll(".book-box-info");
+
+			boxes.forEach(box => {
+				box.addEventListener("click", function () {
+					const url = box.getAttribute("data-url");
+					if (url) {
+						window.location.href = url;
+					}
+				});
+			});
+		});
+	</script>
+</div>

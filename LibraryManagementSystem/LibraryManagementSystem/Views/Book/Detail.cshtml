@@ -1,0 +1,36 @@
+﻿@model LibraryManagementSystem.Models.Book;
+
+<div class="book-detail container">
+	@if (Model != null)
+	{
+		<div class="row">
+			<div class="col-4">
+				<div class="image-box">
+					<img src="/images/@Model.Avatar" alt="image" />
+				</div>
+			</div>
+
+			<div class="col-8">
+				<div class="book-detail-info">
+					<h4 class="title"><b>Title: </b>@Model.Title</h4>
+					<p class="bookcode"><b>Book Code: </b>@(Model.BookCode ?? "Unknown")</p>
+					<p class="publisher"><b>Publisher: </b>@(Model.Publisher ?? "Unknown")</p>
+					<p class="date"><b>Date of publication: </b>@(Model.PublishedYear == null ? "Unknown" : Model.PublishedYear)</p>
+					<p class="author"><b>Author: </b>@(Model.Author?.FirstName ?? "Unknown")</p>
+					<p class="category"><b>Category: </b>@(Model.Category?.Name ?? "Unknown")</p>
+					<p class="total-copies"><b>Total Copies: </b>@(Model.TotalCopies == null ? "Unknown" : Model.TotalCopies)</p>
+					<p class="available-copies"><b>Available Copies: </b>@(Model.AvailableCopies == null ? "Unknown" : Model.AvailableCopies)</p>
+					<p class="created-day"><b>Created Date: </b>@(Model.CreatedDate == null ? "Unknown" : Model.CreatedDate)</p>
+					<p class="description"><b>Description: </b>@(Model.Description ?? "Not available")</p>
+					<p class="pdf"><b>PDF: </b>@(Model.Pdf == null ? "PDF is not available" : Model.Pdf)</p>
+					<a class="view-online" href="@Url.Action("ReadPdf", "Book", new { bookId = Model.BookId })">Read PDF</a>
+				</div>
+				
+			</div>
+		</div>
+	}
+	else
+	{
+		<p>Book Description is not available.</p>
+	}
+</div>

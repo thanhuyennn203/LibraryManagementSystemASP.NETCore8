@@ -1,0 +1,23 @@
+﻿<div class="login">
+	<div class="login-popup">
+		<form action="/" method="post">
+			<h3>Login</h3>
+			<p class="welcome">Welcome! Please enter your information.</p>
+			<input type="email" name="email" placeholder="Email" value="" maxlength="50" />
+
+			<input type="password" id="inputPassword5" class="form-control" aria-describedby="passwordHelpBlock" placeholder="Password" maxlength="50">
+			<p class="helper">
+				Your password must be 8-20 characters long, contain letters and numbers, and must not contain spaces, special characters, or emoji.
+			</p>
+			<div class="remember">
+				<input type="checkbox" id="remember" value="" />
+				<label for="remeber">Remember me</label>
+			</div>
+			
+			<p class="forget-password"> <a href="#">Forget the password?</a></p>
+			<button class="login-btn" >Login</button>
+			<button class="register-btn" asp-controller="Login" asp-action="Register">Register</button>
+			<p>You haven't had an account? <a class="register-now" style="color:green;" asp-controller="Login" asp-action="Register">Register now.</a></p>
+		</form>
+	</div>
+</div>

@@ -1,0 +1,20 @@
+﻿<div class="register">
+	<div class="login-popup">
+		<form action="/" method="post">
+			<h3>Register</h3>
+			<p class="welcome">Welcome! Please enter your information.</p>
+			<input type="text" name="name" placeholder="Your name" value="" maxlength="50"/>
+
+			<input type="email" name="email" placeholder="Email" maxlength="50" value="" />
+
+			<input type="password" placeholder="Password" maxlength="255">
+			<p class="helper">
+				Your password must be 8-20 characters long, contain letters and numbers, and must not contain spaces, special characters, or emoji.
+			</p>
+			<input type="password" name="" value="" placeholder="Rewrite password" maxlength="255" />
+			
+			<button class="register-btn" style="background-color:green; color: white">Register</button>
+			<p>You already have an account? <a asp-controller="Login" asp-action="Index" class="login-now" style="color:green;">Login now.</a></p>
+		</form>
+	</div>
+</div>

@@ -1,0 +1,645 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\.nuget\\packages\\bootstrap\\5.3.5\\contentFiles\\any\\any\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\LibraryManagementSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\LibraryManagementSystem.jj2uap2xrz.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\1984.jpg",
+      "PackagePath": "staticwebassets\\images\\1984.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\Carousel\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\images\\Carousel\\carousel-1.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\Carousel\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\images\\Carousel\\carousel-2.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\Carousel\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\images\\Carousel\\carousel-3.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\alchemist.jpg",
+      "PackagePath": "staticwebassets\\images\\alchemist.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\algo.jpg",
+      "PackagePath": "staticwebassets\\images\\algo.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\begin.jpg",
+      "PackagePath": "staticwebassets\\images\\begin.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\catcher.jpg",
+      "PackagePath": "staticwebassets\\images\\catcher.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\cleancode.jpg",
+      "PackagePath": "staticwebassets\\images\\cleancode.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\codecomplete.jpg",
+      "PackagePath": "staticwebassets\\images\\codecomplete.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\compass.jpg",
+      "PackagePath": "staticwebassets\\images\\compass.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\cotichvietnam.jpg",
+      "PackagePath": "staticwebassets\\images\\cotichvietnam.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\demenphieuluuki.jpg",
+      "PackagePath": "staticwebassets\\images\\demenphieuluuki.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\designpatterns.jpg",
+      "PackagePath": "staticwebassets\\images\\designpatterns.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\effectivejava.jpg",
+      "PackagePath": "staticwebassets\\images\\effectivejava.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\eragon.jpg",
+      "PackagePath": "staticwebassets\\images\\eragon.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\gatsby.jpg",
+      "PackagePath": "staticwebassets\\images\\gatsby.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\got1.jpg",
+      "PackagePath": "staticwebassets\\images\\got1.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\headjava.jpg",
+      "PackagePath": "staticwebassets\\images\\headjava.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\hobbit.jpg",
+      "PackagePath": "staticwebassets\\images\\hobbit.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\hp1.jpg",
+      "PackagePath": "staticwebassets\\images\\hp1.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\jane_eyre.jpg",
+      "PackagePath": "staticwebassets\\images\\jane_eyre.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\js_good.jpg",
+      "PackagePath": "staticwebassets\\images\\js_good.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\kite_runner.jpg",
+      "PackagePath": "staticwebassets\\images\\kite_runner.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\little_women.jpg",
+      "PackagePath": "staticwebassets\\images\\little_women.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\loainguoi.jpg",
+      "PackagePath": "staticwebassets\\images\\loainguoi.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\lotr1.jpg",
+      "PackagePath": "staticwebassets\\images\\lotr1.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\menu-icon.jpg",
+      "PackagePath": "staticwebassets\\images\\menu-icon.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\mistborn.jpg",
+      "PackagePath": "staticwebassets\\images\\mistborn.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\mockingbird.jpg",
+      "PackagePath": "staticwebassets\\images\\mockingbird.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\name_of_wind.jpg",
+      "PackagePath": "staticwebassets\\images\\name_of_wind.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\narnia.jpg",
+      "PackagePath": "staticwebassets\\images\\narnia.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\ngoikhoctrencay.jpg",
+      "PackagePath": "staticwebassets\\images\\ngoikhoctrencay.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\pi.jpg",
+      "PackagePath": "staticwebassets\\images\\pi.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\pragmatic.jpg",
+      "PackagePath": "staticwebassets\\images\\pragmatic.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\pride.jpg",
+      "PackagePath": "staticwebassets\\images\\pride.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\python_crash.jpg",
+      "PackagePath": "staticwebassets\\images\\python_crash.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\search-icon.webp",
+      "PackagePath": "staticwebassets\\images\\search-icon.webp"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\search.jpg",
+      "PackagePath": "staticwebassets\\images\\search.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\suimlangcuabaycuu.jpg",
+      "PackagePath": "staticwebassets\\images\\suimlangcuabaycuu.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tamlihoctoipham.jpg",
+      "PackagePath": "staticwebassets\\images\\tamlihoctoipham.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tetolangdianguc.jpg",
+      "PackagePath": "staticwebassets\\images\\tetolangdianguc.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\thepdatoitheday.jpg",
+      "PackagePath": "staticwebassets\\images\\thepdatoitheday.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\toithayhoavangtrencoxanh.jpg",
+      "PackagePath": "staticwebassets\\images\\toithayhoavangtrencoxanh.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\wayofkings.jpg",
+      "PackagePath": "staticwebassets\\images\\wayofkings.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\ydkjs.jpg",
+      "PackagePath": "staticwebassets\\images\\ydkjs.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\pdfs\\CleanCode.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\CleanCode.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.LibraryManagementSystem.props",
+      "PackagePath": "build\\LibraryManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.LibraryManagementSystem.props",
+      "PackagePath": "buildMultiTargeting\\LibraryManagementSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.LibraryManagementSystem.props",
+      "PackagePath": "buildTransitive\\LibraryManagementSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

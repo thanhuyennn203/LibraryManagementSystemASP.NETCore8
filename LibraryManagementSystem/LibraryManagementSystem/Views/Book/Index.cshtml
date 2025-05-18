@@ -1,0 +1,57 @@
+﻿@model List<LibraryManagementSystem.Models.Book>
+
+@* @{ *@
+@* 	ViewData["Title"] = "All Books Available"; *@
+@* } *@
+
+<div class="books">
+	<h5 style="color: black;">@ViewBag.Title</h5>
+	<hr />
+
+	<div class="book-display">
+		@if (Model != null && Model.Any())
+		{
+			@foreach (var book in Model)
+			{
+				<div class="book-box">
+					<div class="book-box-info" data-url="@Url.Action("Detail", "Book", new { bookId = book.BookId })">
+						<div class="book-img">
+							<img src="/images/@book.Avatar" alt="@book.Title" />
+						</div>
+
+						<div class="book-info">
+							<p class="title">@book.Title</p>
+							<p class="author">@((book.Author != null) ? book.Author.FirstName : "Unknown Author")</p>
+						</div>
+					</div>
+					<div class="view-online-box">
+						<a class="view-online" href="@Url.Action("ReadPdf", "Book", new { bookId = book.BookId })">Read PDF</a>
+					</div>
+				</div>
+
+
+			}
+
+		}
+		else
+		{
+			<p>No books available.</p>
+		}
+	</div>
+</div>
+
+<script>
+	document.addEventListener("DOMContentLoaded", function () {
+		const boxes = document.querySelectorAll(".book-box-info");
+
+		boxes.forEach(box => {
+			box.addEventListener("click", function () {
+				const url = box.getAttribute("data-url");
+				if (url) {
+					window.location.href = url;
+				}
+			});
+		});
+	});
+</script>
+
