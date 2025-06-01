@@ -70,6 +70,7 @@ F:\CSE443\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\
 F:\CSE443\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.MvcApplicationPartsAssemblyInfo.cache
 F:\CSE443\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.RazorAssemblyInfo.cache
 F:\CSE443\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.RazorAssemblyInfo.cs
+F:\CSE443\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.sourcelink.json
 F:\CSE443\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 F:\CSE443\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\scopedcss\bundle\LibraryManagementSystem.styles.css
 F:\CSE443\Lab3\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\scopedcss\projectbundle\LibraryManagementSystem.bundle.scp.css

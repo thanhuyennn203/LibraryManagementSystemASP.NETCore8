@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZhwAp3odw60IRul71Pv7KDtPd9Q+Dto0WpkuBgMpIWM=",
+  "Hash": "L0Y4+c/jp0j4L+l5m2+KaeuBnkmToKx1VaZnXuo2234=",
   "Source": "LibraryManagementSystem",
   "BasePath": "_content/LibraryManagementSystem",
   "Mode": "Default",
@@ -1018,8 +1018,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "1hcqk45wsz",
-      "Integrity": "pTVZCsr16bN5IpZh1r4ts6ro1sA289meTQGd2CyAAXY=",
+      "Fingerprint": "xu8ark91wo",
+      "Integrity": "WeY1sih58a0bcBwjzya6TIRMTj+WZHEsqknqe8KFTb4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -1067,6 +1067,48 @@
       "OriginalItemSpec": "wwwroot\\images\\1984.jpg"
     },
     {
+      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\232df4a789536d69f51dfdee6989a4d5.jpg",
+      "SourceId": "LibraryManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
+      "BasePath": "_content/LibraryManagementSystem",
+      "RelativePath": "images/232df4a789536d69f51dfdee6989a4d5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rxuq3za3g4",
+      "Integrity": "H871VU/2ZPcGG86eYu3OECo/2iANsbBO74M5fpaLfq8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\232df4a789536d69f51dfdee6989a4d5.jpg"
+    },
+    {
+      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\53c1cd900445211c35d7db92c49be204.jpg",
+      "SourceId": "LibraryManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
+      "BasePath": "_content/LibraryManagementSystem",
+      "RelativePath": "images/53c1cd900445211c35d7db92c49be204#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "72qcrjgb56",
+      "Integrity": "EQp+APkGJ17+tPXzXwP2H2v5JB74ZOVo/5jAgHyk2qk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\53c1cd900445211c35d7db92c49be204.jpg"
+    },
+    {
       "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\alchemist.jpg",
       "SourceId": "LibraryManagementSystem",
       "SourceType": "Discovered",
@@ -1109,12 +1151,12 @@
       "OriginalItemSpec": "wwwroot\\images\\algo.jpg"
     },
     {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\begin.jpg",
+      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\c_comic.jpg",
       "SourceId": "LibraryManagementSystem",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
       "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/begin#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/c_comic#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1123,11 +1165,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "6zu816mgs6",
-      "Integrity": "0iezje0IX8Zjyid3B29yO6ufHqNt28b56xd5iiHRIQ0=",
+      "Fingerprint": "r9pysvlyi1",
+      "Integrity": "b/zG32lARxMxv0E/KtN/euIVCJ7YysPz3DCgHforrfU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\begin.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\c_comic.jpg"
     },
     {
       "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\Carousel\\carousel-1.jpg",
@@ -1275,48 +1317,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\compass.jpg"
-    },
-    {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\cotichvietnam.jpg",
-      "SourceId": "LibraryManagementSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
-      "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/cotichvietnam#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "fkv9db7a5c",
-      "Integrity": "8c55dYIAe0v7V87m/jwSJ/yTSDKSWoDzxc1Ia38jlBU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\cotichvietnam.jpg"
-    },
-    {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\demenphieuluuki.jpg",
-      "SourceId": "LibraryManagementSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
-      "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/demenphieuluuki#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "qwd7uto90f",
-      "Integrity": "1os/LQNCoxWSKpE1UlrvxV09PMn4IOgrR1K3SRbxmgE=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\demenphieuluuki.jpg"
     },
     {
       "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\designpatterns.jpg",
@@ -1760,27 +1760,6 @@
       "OriginalItemSpec": "wwwroot\\images\\narnia.jpg"
     },
     {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\ngoikhoctrencay.jpg",
-      "SourceId": "LibraryManagementSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
-      "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/ngoikhoctrencay#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "bqocq3w04p",
-      "Integrity": "zbFiEq78hUjc2q65yXc2BWtvhljJYtniuyIxp35EkN0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\ngoikhoctrencay.jpg"
-    },
-    {
       "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\pi.jpg",
       "SourceId": "LibraryManagementSystem",
       "SourceType": "Discovered",
@@ -1905,111 +1884,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\search-icon.webp"
-    },
-    {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\suimlangcuabaycuu.jpg",
-      "SourceId": "LibraryManagementSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
-      "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/suimlangcuabaycuu#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "mqntli381k",
-      "Integrity": "kvWAOv7xgtSkhECZSQfWAhy4iMCtr/bCVke0YEounng=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\suimlangcuabaycuu.jpg"
-    },
-    {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tamlihoctoipham.jpg",
-      "SourceId": "LibraryManagementSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
-      "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/tamlihoctoipham#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "9fela4uu7q",
-      "Integrity": "u4mX8N1cHeDQLqFFKtYZwZH5Y3MHAfdSlNiDiS1E8SU=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\tamlihoctoipham.jpg"
-    },
-    {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tetolangdianguc.jpg",
-      "SourceId": "LibraryManagementSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
-      "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/tetolangdianguc#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "u16b019tqb",
-      "Integrity": "YmdNzfzPKw0Z3d9Ffxmj/qdBgqk0nuzCb0afBqnU8+0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\tetolangdianguc.jpg"
-    },
-    {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\thepdatoitheday.jpg",
-      "SourceId": "LibraryManagementSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
-      "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/thepdatoitheday#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "dd300st6bc",
-      "Integrity": "767QCbTgWHbs9JVYhh9k2OWAR4Tw9Sp6abY9CtgCLsM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\thepdatoitheday.jpg"
-    },
-    {
-      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\toithayhoavangtrencoxanh.jpg",
-      "SourceId": "LibraryManagementSystem",
-      "SourceType": "Discovered",
-      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
-      "BasePath": "_content/LibraryManagementSystem",
-      "RelativePath": "images/toithayhoavangtrencoxanh#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "bfjch8ze1q",
-      "Integrity": "V26RBGdU15okFo5EV1E9pnS3HNEfG/C+mAmRDXzjH3g=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\toithayhoavangtrencoxanh.jpg"
     },
     {
       "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\wayofkings.jpg",
@@ -3291,6 +3165,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\pdfs\\CleanCode.pdf"
+    },
+    {
+      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\pdfs\\Database Diagram V0.1.pdf",
+      "SourceId": "LibraryManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
+      "BasePath": "_content/LibraryManagementSystem",
+      "RelativePath": "pdfs/Database Diagram V0.1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "up9wzgg7zt",
+      "Integrity": "zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\pdfs\\Database Diagram V0.1.pdf"
+    },
+    {
+      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\uploads\\22f493cc160ca452fd1d.jpg",
+      "SourceId": "LibraryManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
+      "BasePath": "_content/LibraryManagementSystem",
+      "RelativePath": "uploads/22f493cc160ca452fd1d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y43vyrmhc0",
+      "Integrity": "om/2s5/lvIlOzkwSSBFqpIw+TcLwa2Z0l7f/oyY6Sz8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\22f493cc160ca452fd1d.jpg"
+    },
+    {
+      "Identity": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\uploads\\Database Diagram V0.1.pdf",
+      "SourceId": "LibraryManagementSystem",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\",
+      "BasePath": "_content/LibraryManagementSystem",
+      "RelativePath": "uploads/Database Diagram V0.1#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "up9wzgg7zt",
+      "Integrity": "zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\Database Diagram V0.1.pdf"
     }
   ],
   "Endpoints": [
@@ -6001,51 +5938,6 @@
       ]
     },
     {
-      "Route": "css/style.1hcqk45wsz.css",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\css\\style.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4639"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"pTVZCsr16bN5IpZh1r4ts6ro1sA289meTQGd2CyAAXY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 03:42:59 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "1hcqk45wsz"
-        },
-        {
-          "Name": "label",
-          "Value": "css/style.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-pTVZCsr16bN5IpZh1r4ts6ro1sA289meTQGd2CyAAXY="
-        }
-      ]
-    },
-    {
       "Route": "css/style.css",
       "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\css\\style.css",
       "Selectors": [],
@@ -6056,7 +5948,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4639"
+          "Value": "4589"
         },
         {
           "Name": "Content-Type",
@@ -6064,11 +5956,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pTVZCsr16bN5IpZh1r4ts6ro1sA289meTQGd2CyAAXY=\""
+          "Value": "\"WeY1sih58a0bcBwjzya6TIRMTj+WZHEsqknqe8KFTb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 18 May 2025 03:42:59 GMT"
+          "Value": "Sun, 18 May 2025 03:48:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6078,7 +5970,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pTVZCsr16bN5IpZh1r4ts6ro1sA289meTQGd2CyAAXY="
+          "Value": "sha256-WeY1sih58a0bcBwjzya6TIRMTj+WZHEsqknqe8KFTb4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.xu8ark91wo.css",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4589"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WeY1sih58a0bcBwjzya6TIRMTj+WZHEsqknqe8KFTb4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 03:48:58 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xu8ark91wo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WeY1sih58a0bcBwjzya6TIRMTj+WZHEsqknqe8KFTb4="
         }
       ]
     },
@@ -6247,6 +6184,170 @@
       ]
     },
     {
+      "Route": "images/232df4a789536d69f51dfdee6989a4d5.jpg",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\232df4a789536d69f51dfdee6989a4d5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H871VU/2ZPcGG86eYu3OECo/2iANsbBO74M5fpaLfq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:18:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H871VU/2ZPcGG86eYu3OECo/2iANsbBO74M5fpaLfq8="
+        }
+      ]
+    },
+    {
+      "Route": "images/232df4a789536d69f51dfdee6989a4d5.rxuq3za3g4.jpg",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\232df4a789536d69f51dfdee6989a4d5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "75694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H871VU/2ZPcGG86eYu3OECo/2iANsbBO74M5fpaLfq8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:18:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rxuq3za3g4"
+        },
+        {
+          "Name": "label",
+          "Value": "images/232df4a789536d69f51dfdee6989a4d5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H871VU/2ZPcGG86eYu3OECo/2iANsbBO74M5fpaLfq8="
+        }
+      ]
+    },
+    {
+      "Route": "images/53c1cd900445211c35d7db92c49be204.72qcrjgb56.jpg",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\53c1cd900445211c35d7db92c49be204.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EQp+APkGJ17+tPXzXwP2H2v5JB74ZOVo/5jAgHyk2qk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:09:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "72qcrjgb56"
+        },
+        {
+          "Name": "label",
+          "Value": "images/53c1cd900445211c35d7db92c49be204.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EQp+APkGJ17+tPXzXwP2H2v5JB74ZOVo/5jAgHyk2qk="
+        }
+      ]
+    },
+    {
+      "Route": "images/53c1cd900445211c35d7db92c49be204.jpg",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\53c1cd900445211c35d7db92c49be204.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EQp+APkGJ17+tPXzXwP2H2v5JB74ZOVo/5jAgHyk2qk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:09:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EQp+APkGJ17+tPXzXwP2H2v5JB74ZOVo/5jAgHyk2qk="
+        }
+      ]
+    },
+    {
       "Route": "images/alchemist.gka8o3ypxj.jpg",
       "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\alchemist.jpg",
       "Selectors": [],
@@ -6411,8 +6512,8 @@
       ]
     },
     {
-      "Route": "images/begin.6zu816mgs6.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\begin.jpg",
+      "Route": "images/c_comic.jpg",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\c_comic.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6421,7 +6522,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34115"
+          "Value": "49212"
         },
         {
           "Name": "Content-Type",
@@ -6429,56 +6530,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0iezje0IX8Zjyid3B29yO6ufHqNt28b56xd5iiHRIQ0=\""
+          "Value": "\"b/zG32lARxMxv0E/KtN/euIVCJ7YysPz3DCgHforrfU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:40:16 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "6zu816mgs6"
-        },
-        {
-          "Name": "label",
-          "Value": "images/begin.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-0iezje0IX8Zjyid3B29yO6ufHqNt28b56xd5iiHRIQ0="
-        }
-      ]
-    },
-    {
-      "Route": "images/begin.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\begin.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34115"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0iezje0IX8Zjyid3B29yO6ufHqNt28b56xd5iiHRIQ0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:40:16 GMT"
+          "Value": "Fri, 30 May 2025 03:10:23 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6488,7 +6544,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0iezje0IX8Zjyid3B29yO6ufHqNt28b56xd5iiHRIQ0="
+          "Value": "sha256-b/zG32lARxMxv0E/KtN/euIVCJ7YysPz3DCgHforrfU="
+        }
+      ]
+    },
+    {
+      "Route": "images/c_comic.r9pysvlyi1.jpg",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\c_comic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "49212"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"b/zG32lARxMxv0E/KtN/euIVCJ7YysPz3DCgHforrfU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 30 May 2025 03:10:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r9pysvlyi1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c_comic.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-b/zG32lARxMxv0E/KtN/euIVCJ7YysPz3DCgHforrfU="
         }
       ]
     },
@@ -7063,170 +7164,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-va8Vno2yvlDhmd7tB1bGBTNgJfeSt4FHBOpEAnc8qaU="
-        }
-      ]
-    },
-    {
-      "Route": "images/cotichvietnam.fkv9db7a5c.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\cotichvietnam.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "83059"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8c55dYIAe0v7V87m/jwSJ/yTSDKSWoDzxc1Ia38jlBU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:35:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "fkv9db7a5c"
-        },
-        {
-          "Name": "label",
-          "Value": "images/cotichvietnam.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-8c55dYIAe0v7V87m/jwSJ/yTSDKSWoDzxc1Ia38jlBU="
-        }
-      ]
-    },
-    {
-      "Route": "images/cotichvietnam.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\cotichvietnam.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "83059"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8c55dYIAe0v7V87m/jwSJ/yTSDKSWoDzxc1Ia38jlBU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:35:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8c55dYIAe0v7V87m/jwSJ/yTSDKSWoDzxc1Ia38jlBU="
-        }
-      ]
-    },
-    {
-      "Route": "images/demenphieuluuki.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\demenphieuluuki.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "159849"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1os/LQNCoxWSKpE1UlrvxV09PMn4IOgrR1K3SRbxmgE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:36:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-1os/LQNCoxWSKpE1UlrvxV09PMn4IOgrR1K3SRbxmgE="
-        }
-      ]
-    },
-    {
-      "Route": "images/demenphieuluuki.qwd7uto90f.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\demenphieuluuki.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "159849"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"1os/LQNCoxWSKpE1UlrvxV09PMn4IOgrR1K3SRbxmgE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:36:08 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "qwd7uto90f"
-        },
-        {
-          "Name": "label",
-          "Value": "images/demenphieuluuki.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-1os/LQNCoxWSKpE1UlrvxV09PMn4IOgrR1K3SRbxmgE="
         }
       ]
     },
@@ -8953,88 +8890,6 @@
       ]
     },
     {
-      "Route": "images/ngoikhoctrencay.bqocq3w04p.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\ngoikhoctrencay.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23680"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zbFiEq78hUjc2q65yXc2BWtvhljJYtniuyIxp35EkN0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:32:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bqocq3w04p"
-        },
-        {
-          "Name": "label",
-          "Value": "images/ngoikhoctrencay.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zbFiEq78hUjc2q65yXc2BWtvhljJYtniuyIxp35EkN0="
-        }
-      ]
-    },
-    {
-      "Route": "images/ngoikhoctrencay.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\ngoikhoctrencay.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "23680"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zbFiEq78hUjc2q65yXc2BWtvhljJYtniuyIxp35EkN0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:32:39 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-zbFiEq78hUjc2q65yXc2BWtvhljJYtniuyIxp35EkN0="
-        }
-      ]
-    },
-    {
       "Route": "images/pi.jpg",
       "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\pi.jpg",
       "Selectors": [],
@@ -9523,416 +9378,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-up8QMTFmdlOll7TjJTMQMstWg7nibqk+WG7Z0LSBzqk="
-        }
-      ]
-    },
-    {
-      "Route": "images/suimlangcuabaycuu.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\suimlangcuabaycuu.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "46009"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kvWAOv7xgtSkhECZSQfWAhy4iMCtr/bCVke0YEounng=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:34:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kvWAOv7xgtSkhECZSQfWAhy4iMCtr/bCVke0YEounng="
-        }
-      ]
-    },
-    {
-      "Route": "images/suimlangcuabaycuu.mqntli381k.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\suimlangcuabaycuu.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "46009"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kvWAOv7xgtSkhECZSQfWAhy4iMCtr/bCVke0YEounng=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:34:57 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "mqntli381k"
-        },
-        {
-          "Name": "label",
-          "Value": "images/suimlangcuabaycuu.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-kvWAOv7xgtSkhECZSQfWAhy4iMCtr/bCVke0YEounng="
-        }
-      ]
-    },
-    {
-      "Route": "images/tamlihoctoipham.9fela4uu7q.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tamlihoctoipham.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "113306"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u4mX8N1cHeDQLqFFKtYZwZH5Y3MHAfdSlNiDiS1E8SU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 11:30:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "9fela4uu7q"
-        },
-        {
-          "Name": "label",
-          "Value": "images/tamlihoctoipham.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-u4mX8N1cHeDQLqFFKtYZwZH5Y3MHAfdSlNiDiS1E8SU="
-        }
-      ]
-    },
-    {
-      "Route": "images/tamlihoctoipham.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tamlihoctoipham.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "113306"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"u4mX8N1cHeDQLqFFKtYZwZH5Y3MHAfdSlNiDiS1E8SU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 11:30:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-u4mX8N1cHeDQLqFFKtYZwZH5Y3MHAfdSlNiDiS1E8SU="
-        }
-      ]
-    },
-    {
-      "Route": "images/tetolangdianguc.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tetolangdianguc.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "161709"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YmdNzfzPKw0Z3d9Ffxmj/qdBgqk0nuzCb0afBqnU8+0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:36:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-YmdNzfzPKw0Z3d9Ffxmj/qdBgqk0nuzCb0afBqnU8+0="
-        }
-      ]
-    },
-    {
-      "Route": "images/tetolangdianguc.u16b019tqb.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tetolangdianguc.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "161709"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"YmdNzfzPKw0Z3d9Ffxmj/qdBgqk0nuzCb0afBqnU8+0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:36:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "u16b019tqb"
-        },
-        {
-          "Name": "label",
-          "Value": "images/tetolangdianguc.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-YmdNzfzPKw0Z3d9Ffxmj/qdBgqk0nuzCb0afBqnU8+0="
-        }
-      ]
-    },
-    {
-      "Route": "images/thepdatoitheday.dd300st6bc.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\thepdatoitheday.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "84516"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"767QCbTgWHbs9JVYhh9k2OWAR4Tw9Sp6abY9CtgCLsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dd300st6bc"
-        },
-        {
-          "Name": "label",
-          "Value": "images/thepdatoitheday.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-767QCbTgWHbs9JVYhh9k2OWAR4Tw9Sp6abY9CtgCLsM="
-        }
-      ]
-    },
-    {
-      "Route": "images/thepdatoitheday.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\thepdatoitheday.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "84516"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"767QCbTgWHbs9JVYhh9k2OWAR4Tw9Sp6abY9CtgCLsM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:38:37 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-767QCbTgWHbs9JVYhh9k2OWAR4Tw9Sp6abY9CtgCLsM="
-        }
-      ]
-    },
-    {
-      "Route": "images/toithayhoavangtrencoxanh.bfjch8ze1q.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\toithayhoavangtrencoxanh.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "116049"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"V26RBGdU15okFo5EV1E9pnS3HNEfG/C+mAmRDXzjH3g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:34:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "bfjch8ze1q"
-        },
-        {
-          "Name": "label",
-          "Value": "images/toithayhoavangtrencoxanh.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-V26RBGdU15okFo5EV1E9pnS3HNEfG/C+mAmRDXzjH3g="
-        }
-      ]
-    },
-    {
-      "Route": "images/toithayhoavangtrencoxanh.jpg",
-      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\toithayhoavangtrencoxanh.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "116049"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"V26RBGdU15okFo5EV1E9pnS3HNEfG/C+mAmRDXzjH3g=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 26 Apr 2025 02:34:21 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-V26RBGdU15okFo5EV1E9pnS3HNEfG/C+mAmRDXzjH3g="
         }
       ]
     },
@@ -15863,7 +15308,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 10:58:57 GMT"
+          "Value": "Sun, 01 Jun 2025 06:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15900,7 +15345,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 10:58:57 GMT"
+          "Value": "Sun, 01 Jun 2025 06:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15945,7 +15390,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 10:58:57 GMT"
+          "Value": "Sun, 01 Jun 2025 06:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15990,7 +15435,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 13 May 2025 10:58:57 GMT"
+          "Value": "Sun, 01 Jun 2025 06:35:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -16083,6 +15528,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-z6Y1xSCCJZufEmEH8/InXAV04dQc53CmkFyluzyayvs="
+        }
+      ]
+    },
+    {
+      "Route": "pdfs/Database Diagram V0.1.pdf",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\pdfs\\Database Diagram V0.1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:18:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc="
+        }
+      ]
+    },
+    {
+      "Route": "pdfs/Database Diagram V0.1.up9wzgg7zt.pdf",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\pdfs\\Database Diagram V0.1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:18:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "up9wzgg7zt"
+        },
+        {
+          "Name": "label",
+          "Value": "pdfs/Database Diagram V0.1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/22f493cc160ca452fd1d.jpg",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\uploads\\22f493cc160ca452fd1d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"om/2s5/lvIlOzkwSSBFqpIw+TcLwa2Z0l7f/oyY6Sz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-om/2s5/lvIlOzkwSSBFqpIw+TcLwa2Z0l7f/oyY6Sz8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/22f493cc160ca452fd1d.y43vyrmhc0.jpg",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\uploads\\22f493cc160ca452fd1d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "448636"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"om/2s5/lvIlOzkwSSBFqpIw+TcLwa2Z0l7f/oyY6Sz8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y43vyrmhc0"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/22f493cc160ca452fd1d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-om/2s5/lvIlOzkwSSBFqpIw+TcLwa2Z0l7f/oyY6Sz8="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database Diagram V0.1.pdf",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\uploads\\Database Diagram V0.1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/Database Diagram V0.1.up9wzgg7zt.pdf",
+      "AssetFile": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\uploads\\Database Diagram V0.1.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "38852"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 31 May 2025 17:44:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "up9wzgg7zt"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/Database Diagram V0.1.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zgPSJfy9iOyddXsJc+BZYrtFomwhHLOSR4sJq6xA0Mc="
         }
       ]
     }

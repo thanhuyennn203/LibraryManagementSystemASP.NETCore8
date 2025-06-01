@@ -1,0 +1,62 @@
+﻿@model LibraryManagementSystem.Models.Loan
+@{
+    Layout = "AdminLayout";
+    var users = ViewBag.Users as List<LibraryManagementSystem.Models.User>;
+    var books = ViewBag.Books as List<LibraryManagementSystem.Models.Book>;
+}
+
+<div class="container-fluid">
+    <h2 class="mb-4">Add Loan</h2>
+
+    <form asp-action="Add" method="post">
+        <div class="form-group mb-3">
+            <label asp-for="UserId" class="form-label"></label>
+            <select asp-for="UserId" class="form-control">
+                <option value="">-- Select User --</option>
+                @foreach (var user in users)
+                {
+                    <option value="@user.UserId">@user.Fullname</option>
+                }
+            </select>
+            <span asp-validation-for="UserId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="BookId" class="form-label"></label>
+            <select asp-for="BookId" class="form-control">
+                <option value="">-- Select Book --</option>
+                @foreach (var book in books)
+                {
+                    <option value="@book.BookId">@book.Title</option>
+                }
+            </select>
+            <span asp-validation-for="BookId" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="LoanDate"></label>
+            <input asp-for="LoanDate" type="datetime-local" class="form-control" />
+            <span asp-validation-for="LoanDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="DueDate"></label>
+            <input asp-for="DueDate" type="datetime-local" class="form-control" />
+            <span asp-validation-for="DueDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="ReturnDate"></label>
+            <input asp-for="ReturnDate" type="datetime-local" class="form-control" />
+            <span asp-validation-for="ReturnDate" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Status"></label>
+            <input asp-for="Status" class="form-control" />
+            <span asp-validation-for="Status" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Add Loan</button>
+    </form>
+</div>

@@ -20,7 +20,7 @@ namespace LibraryManagementSystem.Controllers
 
             var carousel = _context.Carousel.ToList();
             ViewBag.Carousel = carousel;
-            var books = _context.Book.Include(b => b.Author).ToList();
+            var books = _context.Book.Include(b => b.Author).Where(b => b.IsDeleted == false).ToList();
             return View(books);
         }
 
@@ -34,5 +34,6 @@ namespace LibraryManagementSystem.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
     }
 }

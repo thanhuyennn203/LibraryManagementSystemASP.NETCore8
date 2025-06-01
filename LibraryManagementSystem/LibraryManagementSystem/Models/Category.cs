@@ -9,14 +9,14 @@ namespace LibraryManagementSystem.Models
         public int CategoryId { get; set; }
         [Required(ErrorMessage = "Name is required.")]
         public string Name { get; set; }
-        public string Description { get; set; }
+        public string? Description { get; set; }
         [DataType(DataType.DateTime)]
-        public DateTime CreatedDate { get; set; }
+        public DateTime? CreatedDate { get; set; }
         [DataType(DataType.DateTime)]
-        public DateTime UpdatedDate { get; set; }
+        public DateTime? UpdatedDate { get; set; }
         public Boolean IsActive { get; set; }
-        public string Avatar { get; set; }
+        public string? Avatar { get; set; }
 
-        public ICollection<Book> Books { get; set; }
+        public ICollection<Book>? Books { get; set; }
     }
 }

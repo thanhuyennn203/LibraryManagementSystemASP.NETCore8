@@ -1,0 +1,79 @@
+﻿@model LibraryManagementSystem.Models.Author
+@{
+    Layout = "AdminLayout";
+}
+
+<style>
+    label{
+        font-weight: 500;
+    }
+</style>
+
+<div class="container-fluid">
+
+    <h2 class="mb-4">Edit Author</h2>
+
+    <form asp-action="Edit" method="post" enctype="multipart/form-data">
+        <input type="hidden" asp-for="AuthorId" />
+
+        <div class="form-group mb-3">
+            <label asp-for="FirstName">First Name</label>
+            <input asp-for="FirstName" class="form-control" value="@Model.FirstName" required/>
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="LastName">last Name</label>
+            <input asp-for="LastName" value="@Model.LastName" class="form-control" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="DateOfBirth">Date of birth</label>
+            <input asp-for="DateOfBirth"
+                   class="form-control"
+                   type="date"
+                   value="@(Model.DateOfBirth.HasValue ? Model.DateOfBirth.Value.ToString("yyyy-MM-dd") : "")" />
+            <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+        </div>
+
+
+        <div class="form-group mb-3">
+            <label asp-for="Biography"></label>
+            <textarea asp-for="Biography" value="@Model.Biography" class="form-control" rows="4"></textarea>
+            <span asp-validation-for="Biography" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Nationality"></label>
+            <input asp-for="Nationality" class="form-control" value="@Model.Nationality" />
+            <span asp-validation-for="Nationality" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Email"></label>
+            <input asp-for="Email" class="form-control" type="email" value="@Model.Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Website"></label>
+            <input asp-for="Website" class="form-control" value="@Model.Website" />
+            <span asp-validation-for="Website" class="text-danger"></span>
+        </div>
+
+        <div class="form-group mb-3">
+            <label asp-for="Avatar">Avatar Image Filename (e.g., author.jpg)</label>
+            <input asp-for="Avatar" class="form-control" value="@Model.Avatar" />
+            <span asp-validation-for="Avatar" class="text-danger"></span>
+        </div>
+
+        <div class="form-check mb-3">
+            <input asp-for="IsActive" value="@Model.IsActive" class="form-check-input" />
+            <label asp-for="IsActive" class="form-check-label">Is Active</label>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save changes</button>
+    </form>
+
+</div>

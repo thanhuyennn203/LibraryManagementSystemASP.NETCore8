@@ -197,6 +197,14 @@
       "PackagePath": "staticwebassets\\images\\1984.jpg"
     },
     {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\232df4a789536d69f51dfdee6989a4d5.jpg",
+      "PackagePath": "staticwebassets\\images\\232df4a789536d69f51dfdee6989a4d5.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\53c1cd900445211c35d7db92c49be204.jpg",
+      "PackagePath": "staticwebassets\\images\\53c1cd900445211c35d7db92c49be204.jpg"
+    },
+    {
       "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\Carousel\\carousel-1.jpg",
       "PackagePath": "staticwebassets\\images\\Carousel\\carousel-1.jpg"
     },
@@ -217,8 +225,8 @@
       "PackagePath": "staticwebassets\\images\\algo.jpg"
     },
     {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\begin.jpg",
-      "PackagePath": "staticwebassets\\images\\begin.jpg"
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\c_comic.jpg",
+      "PackagePath": "staticwebassets\\images\\c_comic.jpg"
     },
     {
       "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\catcher.jpg",
@@ -235,14 +243,6 @@
     {
       "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\compass.jpg",
       "PackagePath": "staticwebassets\\images\\compass.jpg"
-    },
-    {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\cotichvietnam.jpg",
-      "PackagePath": "staticwebassets\\images\\cotichvietnam.jpg"
-    },
-    {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\demenphieuluuki.jpg",
-      "PackagePath": "staticwebassets\\images\\demenphieuluuki.jpg"
     },
     {
       "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\designpatterns.jpg",
@@ -329,10 +329,6 @@
       "PackagePath": "staticwebassets\\images\\narnia.jpg"
     },
     {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\ngoikhoctrencay.jpg",
-      "PackagePath": "staticwebassets\\images\\ngoikhoctrencay.jpg"
-    },
-    {
       "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\pi.jpg",
       "PackagePath": "staticwebassets\\images\\pi.jpg"
     },
@@ -355,26 +351,6 @@
     {
       "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\search.jpg",
       "PackagePath": "staticwebassets\\images\\search.jpg"
-    },
-    {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\suimlangcuabaycuu.jpg",
-      "PackagePath": "staticwebassets\\images\\suimlangcuabaycuu.jpg"
-    },
-    {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tamlihoctoipham.jpg",
-      "PackagePath": "staticwebassets\\images\\tamlihoctoipham.jpg"
-    },
-    {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\tetolangdianguc.jpg",
-      "PackagePath": "staticwebassets\\images\\tetolangdianguc.jpg"
-    },
-    {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\thepdatoitheday.jpg",
-      "PackagePath": "staticwebassets\\images\\thepdatoitheday.jpg"
-    },
-    {
-      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\toithayhoavangtrencoxanh.jpg",
-      "PackagePath": "staticwebassets\\images\\toithayhoavangtrencoxanh.jpg"
     },
     {
       "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\images\\wayofkings.jpg",
@@ -619,6 +595,18 @@
     {
       "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\pdfs\\CleanCode.pdf",
       "PackagePath": "staticwebassets\\pdfs\\CleanCode.pdf"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\pdfs\\Database Diagram V0.1.pdf",
+      "PackagePath": "staticwebassets\\pdfs\\Database Diagram V0.1.pdf"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\uploads\\22f493cc160ca452fd1d.jpg",
+      "PackagePath": "staticwebassets\\uploads\\22f493cc160ca452fd1d.jpg"
+    },
+    {
+      "Id": "F:\\CSE443\\Lab3\\LibraryManagementSystem\\LibraryManagementSystem\\wwwroot\\uploads\\Database Diagram V0.1.pdf",
+      "PackagePath": "staticwebassets\\uploads\\Database Diagram V0.1.pdf"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.LibraryManagementSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

@@ -1,0 +1,62 @@
+﻿@{
+    Layout = "AdminLayout";
+}
+
+@model List<LibraryManagementSystem.Models.Category>
+
+<div class="category-management container-fluid">
+    <h3 class="mb-4">Category Management</h3>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover align-middle text-center" style="table-layout: fixed; width: 100%;">
+            <thead class="table-dark">
+                <tr>
+                    <th style="width: 80px;">Avatar</th>
+                    <th style="width: 80px;">ID</th>
+                    <th style="width: 150px;">Name</th>
+                    <th style="width: 250px;">Description</th>
+                    <th style="width: 130px;">Created</th>
+                    <th style="width: 130px;">Updated</th>
+                    <th style="width: 160px;">Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var category in Model)
+                {
+                    <tr>
+                        <td>
+                            @if (!string.IsNullOrEmpty(category.Avatar))
+                            {
+                                <img src="/images/@category.Avatar" alt="Avatar" class="img-fluid rounded" style="max-height: 80px;" />
+                            }
+                            else
+                            {
+                                <span>No Image</span>
+                            }
+                        </td>
+                        <td>@category.CategoryId</td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 140px;">
+                                @category.Name
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 240px;">
+                                @(string.IsNullOrEmpty(category.Description) ? "Not available" : category.Description)
+                            </div>
+                        </td>
+                        <td>@category.CreatedDate?.ToString("yyyy-MM-dd")</td>
+                        <td>@category.UpdatedDate?.ToString("yyyy-MM-dd")</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@category.CategoryId" class="btn btn-sm btn-outline-primary mb-1">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@category.CategoryId" class="btn btn-sm btn-outline-danger" onclick="return confirm('Are you sure you want to delete this category?');">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a asp-action="Add" class="btn btn-primary">Add</a>
+    </div>
+</div>

@@ -1,0 +1,81 @@
+﻿@{
+    Layout = "AdminLayout";
+}
+
+@model List<LibraryManagementSystem.Models.Author>
+
+<div class="author-management container-fluid">
+    <h3 class="mb-4">Author Management</h3>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover align-middle text-center" style="table-layout: fixed; width: 100%;">
+            <thead class="table-dark">
+                <tr>
+                    <th style="width: 80px;">Avatar</th>
+                    <th style="width: 60px;">ID</th>
+                    <th style="width: 140px;">Full Name</th>
+                    <th style="width: 120px;">Date of Birth</th>
+                    <th style="width: 200px;">Biography</th>
+                    <th style="width: 120px;">Nationality</th>
+                    <th style="width: 180px;">Email</th>
+                    <th style="width: 160px;">Website</th>
+                    <th style="width: 120px;">Created Date</th>
+                    <th style="width: 140px;">Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var author in Model)
+                {
+                    <tr>
+                        <td>
+                            @if (!string.IsNullOrEmpty(author.Avatar))
+                            {
+                                <img src="/images/@author.Avatar" alt="Avatar" class="img-fluid rounded" style="max-height: 80px;" />
+                            }
+                            else
+                            {
+                                <span>No Image</span>
+                            }
+                        </td>
+                        <td>@author.AuthorId</td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 130px;">
+                                @($"{author.FirstName} {author.LastName}")
+                            </div>
+                        </td>
+                        <td>@author.DateOfBirth?.ToString("yyyy-MM-dd")</td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 190px;">
+                                @(string.IsNullOrEmpty(author.Biography) ? "Not available" : author.Biography)
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 110px;">
+                                @author.Nationality
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 170px;">
+                                @author.Email
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 150px;">
+                                @author.Website
+                            </div>
+                        </td>
+                        <td>@author.CreatedDate?.ToString("yyyy-MM-dd")</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@author.AuthorId"
+                               class="btn btn-sm btn-outline-primary mb-1">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@author.AuthorId"
+                               class="btn btn-sm btn-outline-danger"
+                               onclick="return confirm('Are you sure you want to delete this author?');">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <a asp-action="Add" class="btn btn-primary">Add</a>
+</div>

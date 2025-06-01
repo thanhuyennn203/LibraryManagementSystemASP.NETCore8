@@ -7,26 +7,28 @@ namespace LibraryManagementSystem.Models
         [Key]
         [Required(ErrorMessage = "Author ID is required.")]
         public int AuthorId { get; set; }
-        [Required(ErrorMessage = "Author ID is required.")]
+
+        [Required]
         [StringLength(100)]
         public string FirstName { get; set; }
+
         [StringLength(100)]
-        public string LastName { get; set; }
+        public string? LastName { get; set; }
         [DataType(DataType.DateTime)]
-        public DateTime DateOfBirth { get; set; }
-        public string Biography { get; set; }
+        public DateTime? DateOfBirth { get; set; }
+        public string? Biography { get; set; }
         [StringLength(100)]
-        public string Nationality { get; set; }
+        public string? Nationality { get; set; }
         [StringLength(100)]
         [EmailAddress(ErrorMessage = "Invalid Email Address.")]
-        public string Email { get; set; }
+        public string? Email { get; set; }
         [StringLength(100)]
-        public string Website { get; set; }
+        public string? Website { get; set; }
         [DataType(DataType.DateTime)]
-        public DateTime CreatedDate { get; set; }
+        public DateTime? CreatedDate { get; set; }
         public Boolean IsActive { get; set; }
-        public string Avatar { get; set; }
+        public string? Avatar { get; set; }
 
-        public ICollection<Book> Books { get; set; }
+        public ICollection<Book>? Books { get; set; }
     }
 }

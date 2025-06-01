@@ -1,0 +1,76 @@
+﻿@{
+    Layout = "AdminLayout";
+}
+
+@model List<LibraryManagementSystem.Models.Book>
+
+<div class="book-management container-fluid">
+    <h3 class="mb-4">Book Management</h3>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover align-middle text-center" style="table-layout: fixed; width: 100%;">
+            <thead class="table-dark">
+                <tr>
+                    <th style="width: 80px;">Avatar</th>
+                    <th style="width: 100px;">ID</th>
+                    <th style="width: 150px;">Title</th>
+                    <th style="width: 250px;">Description</th>
+                    <th style="width: 100px;">Book Code</th>
+                    <th style="width: 150px;">Publisher</th>
+                    <th style="width: 100px;">Published Year</th>
+                    <th style="width: 100px;">Category ID</th>
+                    <th style="width: 100px;">Author ID</th>
+                    <th style="width: 100px;">Total Copies</th>
+                    <th style="width: 100px;">Available Copies</th>
+                    <th style="width: 100px;">Created Date</th>
+                    <th style="width: 200px;">Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var book in Model)
+                {
+                    <tr>
+                        <td>
+                            @if (!string.IsNullOrEmpty(book.Avatar))
+                            {
+                                <img src="/images/@book.Avatar" alt="Avatar" class="img-fluid rounded" style="max-height: 80px;" />
+                            }
+                            else
+                            {
+                                <span>No Image</span>
+                            }
+                        </td>
+                        <td>@book.BookId</td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 140px;">@book.Title</div>
+                        </td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 240px;">
+                                @(string.IsNullOrEmpty(book.Description) ? "Not available" : book.Description)
+                            </div>
+                        </td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 140px;">@book.BookCode</div>
+                        </td>
+                        <td>
+                            <div class="text-truncate" style="max-width: 140px;">@book.Publisher</div>
+                        </td>
+                        <td>@book.PublishedYear</td>
+                        <td>@book.CategoryId</td>
+                        <td>@book.AuthorId</td>
+                        <td>@book.TotalCopies</td>
+                        <td>@book.AvailableCopies</td>
+                        <td>@book.CreatedDate?.ToString("yyyy-MM-dd")</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@book.BookId" class="btn btn-sm btn-outline-primary mb-1">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@book.BookId" class="btn btn-sm btn-outline-danger" onclick="return confirm('Are you sure you want to delete this book?');">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a asp-action="Add" class="btn btn-primary">Add</a>
+    </div>
+</div>

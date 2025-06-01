@@ -10,6 +10,7 @@ var connectionString = builder.Configuration.GetConnectionString("DBConnection")
 builder.Services.AddDbContext<LibraryManagementSystemContext>(options =>
     options.UseSqlServer(connectionString));
 builder.Services.AddAuthorization();
+builder.Services.AddSignalR();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

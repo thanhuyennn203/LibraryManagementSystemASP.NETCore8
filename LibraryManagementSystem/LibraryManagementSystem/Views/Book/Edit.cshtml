@@ -1,0 +1,88 @@
+﻿@model LibraryManagementSystem.Models.Book
+
+@{
+	Layout = "AdminLayout";
+	var authors = ViewBag.authors as List<LibraryManagementSystem.Models.Author>;
+	var categories = ViewBag.categories as List<LibraryManagementSystem.Models.Category>;
+}
+
+<div class="container-fluid">
+	<div class="container mt-4">
+		<h2 class="mb-4">Edit Book</h2>
+
+		<form asp-action="Edit" method="post" enctype="multipart/form-data">
+			<input type="hidden" asp-for="BookId" />
+
+			<div class="form-group mb-3">
+				<label asp-for="Title" class="form-label"></label>
+				<input asp-for="Title" class="form-control" />
+				<span asp-validation-for="Title" class="text-danger"></span>
+			</div>
+
+			<div class="form-group mb-3">
+				<label asp-for="Description" class="form-label"></label>
+				<textarea asp-for="Description" class="form-control"></textarea>
+			</div>
+
+			<div class="form-group mb-3">
+				<label asp-for="BookCode" class="form-label"></label>
+				<input asp-for="BookCode" class="form-control" />
+				<span asp-validation-for="BookCode" class="text-danger"></span>
+			</div>
+
+			<div class="form-group mb-3">
+				<label asp-for="Publisher" class="form-label"></label>
+				<input asp-for="Publisher" class="form-control" />
+			</div>
+
+			<div class="form-group mb-3">
+				<label asp-for="PublishedYear" class="form-label"></label>
+				<input asp-for="PublishedYear" class="form-control" type="date" />
+			</div>
+
+			<div class="form-group mb-3">
+				<label asp-for="CategoryId" class="form-label">Category</label>
+				<select asp-for="CategoryId" class="form-control">
+					<option value="">-- Select Category --</option>
+					@foreach (var category in categories)
+					{
+						<option value="@category.CategoryId">@category.Name</option>
+					}
+				</select>
+			</div>
+
+			<div class="form-group mb-3">
+				<label asp-for="AuthorId" class="form-label">Author</label>
+				<select asp-for="AuthorId" class="form-control">
+					<option value="">-- Select Author --</option>
+					@foreach (var author in authors)
+					{
+						<option value="@author.AuthorId"> @($"{author.FirstName} {author.LastName}")</option>
+					}
+				</select>
+			</div>
+
+			<div class="form-group mb-3">
+				<label asp-for="TotalCopies" class="form-label"></label>
+				<input asp-for="TotalCopies" class="form-control" type="number" />
+			</div>
+
+			<div class="form-group mb-3">
+				<label asp-for="AvailableCopies" class="form-label"></label>
+				<input asp-for="AvailableCopies" class="form-control" type="number" />
+			</div>
+
+			<div class="form-group mb-3">
+				<label class="form-label">Change Image</label>
+				<input type="file" name="AvatarFile" class="form-control" />
+			</div>
+
+			<div class="form-group mb-3">
+				<label class="form-label">Change PDF</label>
+				<input type="file" name="PdfFile" class="form-control" />
+			</div>
+
+			<button type="submit" class="btn btn-success">Update Book</button>
+		</form>
+	</div>
+</div>

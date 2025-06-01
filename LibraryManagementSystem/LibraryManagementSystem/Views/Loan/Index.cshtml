@@ -1,0 +1,47 @@
+﻿@{
+    Layout = "AdminLayout";
+}
+
+@model List<LibraryManagementSystem.Models.Loan>
+
+<div class="loan-management container-fluid">
+    <h3 class="mb-4">Loan Management</h3>
+
+    <div class="table-responsive">
+        <table class="table table-bordered table-hover align-middle text-center" style="table-layout: fixed; width: 100%;">
+            <thead class="table-dark">
+                <tr>
+                    <th style="width: 80px;">ID</th>
+                    <th style="width: 100px;">User ID</th>
+                    <th style="width: 100px;">Book ID</th>
+                    <th style="width: 160px;">Loan Date</th>
+                    <th style="width: 160px;">Due Date</th>
+                    <th style="width: 160px;">Return Date</th>
+                    <th style="width: 120px;">Status</th>
+                    <th style="width: 160px;">Actions</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var loan in Model)
+                {
+                    <tr>
+                        <td>@loan.LoanId</td>
+                        <td>@loan.UserId</td>
+                        <td>@loan.BookId</td>
+                        <td>@loan.LoanDate?.ToString("yyyy-MM-dd")</td>
+                        <td>@loan.DueDate?.ToString("yyyy-MM-dd")</td>
+                        <td>@loan.ReturnDate?.ToString("yyyy-MM-dd")</td>
+                        <td>@loan.Status</td>
+                        <td>
+                            <a asp-action="Edit" asp-route-id="@loan.LoanId" class="btn btn-sm btn-outline-primary mb-1">Edit</a>
+                            <a asp-action="Delete" asp-route-id="@loan.LoanId" class="btn btn-sm btn-outline-danger" onclick="return confirm('Are you sure you want to delete this loan?');">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+        <a asp-action="Add" class="btn btn-primary">Add</a>
+    </div>
+</div>

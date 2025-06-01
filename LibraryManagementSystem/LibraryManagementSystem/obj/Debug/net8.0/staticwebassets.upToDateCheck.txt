@@ -46,9 +46,11 @@ wwwroot\css\site.css
 wwwroot\css\style.css
 wwwroot\favicon.ico
 wwwroot\images\1984.jpg
+wwwroot\images\232df4a789536d69f51dfdee6989a4d5.jpg
+wwwroot\images\53c1cd900445211c35d7db92c49be204.jpg
 wwwroot\images\alchemist.jpg
 wwwroot\images\algo.jpg
-wwwroot\images\begin.jpg
+wwwroot\images\c_comic.jpg
 wwwroot\images\Carousel\carousel-1.jpg
 wwwroot\images\Carousel\carousel-2.jpg
 wwwroot\images\Carousel\carousel-3.jpg
@@ -56,8 +58,6 @@ wwwroot\images\catcher.jpg
 wwwroot\images\cleancode.jpg
 wwwroot\images\codecomplete.jpg
 wwwroot\images\compass.jpg
-wwwroot\images\cotichvietnam.jpg
-wwwroot\images\demenphieuluuki.jpg
 wwwroot\images\designpatterns.jpg
 wwwroot\images\effectivejava.jpg
 wwwroot\images\eragon.jpg
@@ -79,18 +79,12 @@ wwwroot\images\mistborn.jpg
 wwwroot\images\mockingbird.jpg
 wwwroot\images\name_of_wind.jpg
 wwwroot\images\narnia.jpg
-wwwroot\images\ngoikhoctrencay.jpg
 wwwroot\images\pi.jpg
 wwwroot\images\pragmatic.jpg
 wwwroot\images\pride.jpg
 wwwroot\images\python_crash.jpg
 wwwroot\images\search.jpg
 wwwroot\images\search-icon.webp
-wwwroot\images\suimlangcuabaycuu.jpg
-wwwroot\images\tamlihoctoipham.jpg
-wwwroot\images\tetolangdianguc.jpg
-wwwroot\images\thepdatoitheday.jpg
-wwwroot\images\toithayhoavangtrencoxanh.jpg
 wwwroot\images\wayofkings.jpg
 wwwroot\images\ydkjs.jpg
 wwwroot\js\site.js
@@ -152,3 +146,6 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\pdfs\CleanCode.pdf
+wwwroot\pdfs\Database Diagram V0.1.pdf
+wwwroot\uploads\22f493cc160ca452fd1d.jpg
+wwwroot\uploads\Database Diagram V0.1.pdf

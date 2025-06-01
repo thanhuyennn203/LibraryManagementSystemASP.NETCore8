@@ -23,6 +23,8 @@ namespace LibraryManagementSystem.Models
         public DateTime? CreatedDate { get; set; }
         public string? Avatar { get; set; }
         public string? Pdf { get; set; }
+
+        public bool? IsDeleted { get; set; }
         public Author? Author { get; set; }
         public Category? Category { get; set; }
 
